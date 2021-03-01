@@ -9,4 +9,4 @@
 	* Dealing with concurrency issues
 
 ### Languages
-* The project was developed using parallel programming in Java
+* The project was developed using parallel programming in Java.
